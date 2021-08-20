@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Knapp",
+        "lastName": "Dickerson",
+        "_id": "603cb7fa87a8b64bca9d7bb3",
+        "age": 29,
+        "company": "COGNICODE",
+        "email": "knapp.dickerson@cognicode.co.uk",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "firstName": "Davidson",
+        "lastName": "Marquez",
+        "_id": "603cb7fa7d31db1b90757f6a",
+        "age": 37,
+        "company": "STROZEN",
+        "email": "davidson.marquez@strozen.net",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "firstName": "Taylor",
+        "lastName": "Ortiz",
+        "_id": "603cb7fa1c88205e78657078",
+        "age": 38,
+        "company": "DYNO",
+        "email": "taylor.ortiz@dyno.com",
+        "favoriteFruit": "apple"
+    }
+]

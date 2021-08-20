@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "603cb7facd9f6e685492c543",
+        "age": 22,
+        "name": {
+            "first": "Kemp",
+            "last": "Pickett"
+        },
+        "company": "ENOMEN",
+        "email": "kemp.pickett@enomen.biz",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "603cb7fa09a53a6fc007772b",
+        "age": 36,
+        "name": {
+            "first": "Forbes",
+            "last": "Avery"
+        },
+        "company": "TOURMANIA",
+        "email": "forbes.avery@tourmania.info",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "603cb7fa87a8b64bca9d7bb3",
+        "age": 29,
+        "name": {
+            "first": "Knapp",
+            "last": "Dickerson"
+        },
+        "company": "COGNICODE",
+        "email": "knapp.dickerson@cognicode.co.uk",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "603cb7fa1c88205e78657078",
+        "age": 38,
+        "name": {
+            "first": "Taylor",
+            "last": "Ortiz"
+        },
+        "company": "DYNO",
+        "email": "taylor.ortiz@dyno.com",
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "603cb7fa548fd2c4f7231cc0",
+        "age": 26,
+        "name": {
+            "first": "Eula",
+            "last": "Silva"
+        },
+        "company": "GEEKKO",
+        "email": "eula.silva@geekko.name",
+        "favoriteFruit": "apple"
+    }
+]

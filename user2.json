@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "603cb7facd9f6e685492c543",
+      "age": 22,
+      "name": {
+        "first": "Kemp",
+        "last": "Pickett"
+      },
+      "company": "ENOMEN",
+      "email": "kemp.pickett@enomen.biz",
+      "favoriteFruit": "banana",
+      "delete": false
+    },
+    {
+      "_id": "603cb7fa09a53a6fc007772b",
+      "age": 36,
+      "name": {
+        "first": "Forbes",
+        "last": "Avery"
+      },
+      "company": "TOURMANIA",
+      "email": "forbes.avery@tourmania.info",
+      "favoriteFruit": "strawberry",
+      "delete": false
+    },
+    {
+      "_id": "603cb7fa87a8b64bca9d7bb3",
+      "age": 29,
+      "name": {
+        "first": "Knapp",
+        "last": "Dickerson"
+      },
+      "company": "COGNICODE",
+      "email": "knapp.dickerson@cognicode.co.uk",
+      "favoriteFruit": "strawberry",
+      "delete": true
+    }
+  ]
